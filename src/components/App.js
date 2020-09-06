@@ -20,6 +20,7 @@ class App extends Component {
     };
 
     this.deleteAppointment = this.deleteAppointment.bind(this);
+    
     this.addAppointment = this.addAppointment.bind(this);
     this.toggleForm = this.toggleForm.bind(this);
     this.changeOrder = this.changeOrder.bind(this);
