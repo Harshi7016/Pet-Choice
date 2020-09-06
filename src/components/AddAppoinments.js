@@ -63,7 +63,7 @@ class AddAppointment extends Component {
                 htmlFor="petName"
                 readOnly
               >
-                g Pet Name
+                Pet Name
               </label>
               <div className="col-md-10">
                 <input
